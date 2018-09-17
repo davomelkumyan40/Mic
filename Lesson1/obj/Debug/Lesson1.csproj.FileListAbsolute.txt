@@ -1,0 +1,9 @@
+C:\Users\davom\source\repos\LINQ\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\davom\source\repos\LINQ\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\davom\source\repos\LINQ\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\davom\source\repos\LINQ\Lesson1\obj\Debug\Lesson1.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\LINQ\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\LINQ\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\davom\source\repos\LINQ\Lesson1\obj\Debug\Lesson1.pdb
+C:\Users\davom\source\repos\LINQ\Lesson1\bin\Debug\DBPBookmdf.mdf
+C:\Users\davom\source\repos\LINQ\Lesson1\bin\Debug\DBPBookmdf_log.ldf
